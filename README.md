@@ -88,6 +88,10 @@ I recommend using the following repo to get a "Nerd Font" (Font that supports ic
 
 [getnf](https://github.com/ronniedroid/getnf)
 
+The font I use is ```Hack Nerd Font mono```
+And the windows terminal color scheme is ```One Half Dark```
+
+
 ## Configuration
 
 ### LSP
